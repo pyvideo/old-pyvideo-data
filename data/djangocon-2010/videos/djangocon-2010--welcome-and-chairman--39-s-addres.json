@@ -4,7 +4,7 @@
   "slug": "djangocon-2010--welcome-and-chairman--39-s-addres",
   "title": "Welcome and Chairman's Address",
   "summary": "",
-  "description": "Welcome and Chairman's Address\n\nPresented by Steve Holden\n\n[VIDEO HAS ISSUES: Looks like the presentation started before\nrecording.]\n",
+  "description": "[VIDEO HAS ISSUES: Looks like the presentation started before\nrecording.]\n",
   "quality_notes": "",
   "language": "English",
   "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0",
@@ -25,5 +25,5 @@
   "speakers": [
     "Steve Holden"
   ],
-  "recorded": null
+  "recorded": "2010-09-07"
 }
