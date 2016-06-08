@@ -2,6 +2,15 @@
 README
 ======
 
+**Status: DEPRECATED**
+
+This repository is deprecated and is no longer used. Please use the new upstream
+repository at https://github.com/pytube/data/ for all future needs.
+
+
+Old content
+===========
+
 This is the pyvideo-data repository. It's the last vestiges of pyvideo.
 It holds data for Python-related conferences. The data is in JSON
 format in a conference subdirectory of the ``data/`` directory.
