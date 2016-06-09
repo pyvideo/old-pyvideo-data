@@ -2,6 +2,10 @@
 README
 ======
 
+.. image:: https://zenodo.org/badge/3012/pyvideo/pyvideo-data.svg
+   :target: https://zenodo.org/badge/latestdoi/3012/pyvideo/pyvideo-data
+
+
 **Status: DEPRECATED**
 
 This repository is deprecated and is no longer used. Please use the new upstream
